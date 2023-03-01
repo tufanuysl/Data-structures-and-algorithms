@@ -8,7 +8,8 @@
 
 BIG-O Notation = O(n^2)
 
-Worst Case 
+Time Complexity: Worst Case 
+
 -----------------------------------------------
 
 1) 7,3,5,8,2,9,4,15,6 -> Selection Sort 
